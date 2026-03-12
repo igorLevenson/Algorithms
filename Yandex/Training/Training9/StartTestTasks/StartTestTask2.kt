@@ -1,0 +1,5 @@
+package StartTestTasks
+
+fun main() {
+
+}

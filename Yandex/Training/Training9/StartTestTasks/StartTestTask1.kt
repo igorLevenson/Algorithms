@@ -30,6 +30,5 @@ fun main() {
 }
 
 fun convertNumberToChar(number: Int): Char {
-
     return ('a'.code + number - 1).toChar()
 }
